@@ -3,3 +3,4 @@ python-docx
 scikit-learn
 numpy # scikit-learn dependency
 scipy # scikit-learn dependency
+pdfminer.six
